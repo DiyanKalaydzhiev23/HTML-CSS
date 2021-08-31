@@ -1,5 +1,5 @@
 Forms
-Customer Details            
+Customer Details
 First Name
 George
 Last Name
